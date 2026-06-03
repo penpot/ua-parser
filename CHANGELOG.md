@@ -1,4 +1,14 @@
-# UAParser.js Changelog
+# Changelog
+
+## Version 1.0.0
+
+- Rename to `user-agent-parser`
+- Preserve MIT license
+
+---
+
+Changelog before fork
+
 
 # Version 2.0
 - What's breaking:
